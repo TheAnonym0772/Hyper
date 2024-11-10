@@ -23,4 +23,7 @@ elseif placeId == 9704927237 or placeId == 12940506339 then
 elseif placeId == 18337464872 then
 	--Weak Piece
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/wp.lua"))()
+elseif placeId == 89438510123061 then
+	--Anime Shadow
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/shadow.lua"))()
 end
