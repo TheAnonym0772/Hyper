@@ -13,7 +13,7 @@ ImageButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0, 0, 0, 74)
 ImageButton.Size = UDim2.new(0, 43, 0, 43)
-ImageButton.Image = "rbxassetid://96915647894802"
+ImageButton.Image = "rbxassetid://15481302234"
 ImageButton.MouseButton1Down:connect(function()
 	game:service('VirtualInputManager'):SendKeyEvent(true, "L", false, game)
 	game:service('VirtualInputManager'):SendKeyEvent(false, "L", false, game)
@@ -28,7 +28,6 @@ TextLabel.BorderSizePixel = 0
 TextLabel.Size = UDim2.new(0, 43, 0, 43)
 TextLabel.Font = Enum.Font.Highway
 TextLabel.Text = "GUI"
-TextLabel.TextColor3 = Color3.fromRGB(25, 25, 25)
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 14.000
 TextLabel.TextTransparency = 0.510
-print("Suncc")
