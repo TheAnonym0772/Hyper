@@ -4,7 +4,7 @@ if placeId == 2753915549 or placeId == 4442272183 or placeId == 7449423635 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/bf.lua"))()
 elseif placeId == 4520749081 or placeId == 6381829480 or placeId == 5931540094 or placeId == 15759515082 then
 	--King Legacy
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/kingl.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/refs/heads/main/kingl.lua"))()
 elseif placeId == 6777872443 then
     	--Pixel Piece
     	loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/pp.lua"))()
