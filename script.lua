@@ -25,5 +25,6 @@ elseif placeId == 18337464872 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/wp.lua"))()
 elseif placeId == 89438510123061 then
 	--Anime Shadow
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/shadow.lua"))()
+	--loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/shadow.lua"))()
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/8ca4ec399bb51f74879cbdef584641ce.lua"))()
 end
