@@ -13,8 +13,8 @@ ImageButton.Position = UDim2.new(0, 0, 0, 74)
 ImageButton.Size = UDim2.new(0, 43, 0, 43)
 ImageButton.Image = "rbxassetid://15481302234"
 ImageButton.MouseButton1Down:connect(function()
-	game:service('VirtualInputManager'):SendKeyEvent(true, "RightControl", false, game)
-	game:service('VirtualInputManager'):SendKeyEvent(false, "RightControl", false, game)
+	game:service('VirtualInputManager'):SendKeyEvent(true, "LeftControl", false, game)
+	game:service('VirtualInputManager'):SendKeyEvent(false, "LeftControl", false, game)
 end)
 
 
