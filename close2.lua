@@ -1,4 +1,4 @@
-local ScreenGui = Instance.new("ScreenGui")
+local ScreenGui = Instance.new("HEEPERHUB")
 local ImageButton = Instance.new("ImageButton")
 local TextLabel = Instance.new("TextLabel")
 
