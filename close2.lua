@@ -1,7 +1,7 @@
 local ScreenGui = Instance.new("ScreenGui")
 local ImageButton = Instance.new("ImageButton")
 local TextLabel = Instance.new("TextLabel")
-
+ScreenGui.Name = "HEEPERHUB"
 ScreenGui.Parent = game.CoreGui
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
